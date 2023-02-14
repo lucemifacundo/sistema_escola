@@ -1,0 +1,16 @@
+body{
+    background:#11a;
+}
+/*alterar area da logo*/
+#logo{
+     width: 389px;
+    height: 129px;
+    margin: auto;
+}
+
+/*alterar tamanho da imagem*/
+#logo img{
+    width: 389px;
+    height: 129px;
+    margin: auto;
+}
